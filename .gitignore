@@ -1,0 +1,6 @@
+#### Git ignore file ####
+
+# Ignore temp files
+*~
+
+# Feel free to add any kind of file youwould like to ignore
