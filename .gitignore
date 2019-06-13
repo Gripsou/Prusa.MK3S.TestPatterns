@@ -3,4 +3,7 @@
 # Ignore temp files
 *~
 
+# Ignore FreeCAD temp file
+*.FCStd1
+
 # Feel free to add any kind of file youwould like to ignore
